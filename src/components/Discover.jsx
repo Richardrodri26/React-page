@@ -14,6 +14,7 @@ const Discover = () => {
         </div>
         <div>
         </div>
+        <p>Hola mundo</p>
         </>
     );
 };
