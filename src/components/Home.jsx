@@ -1,5 +1,4 @@
-import React from "react";
-import {AiFillFacebook, AiFillInstagram, AiFillTwitterSquare, AiOutlineSearch} from 'react-icons/ai'
+import React from 'react'
 
 function Home() {
   return (
