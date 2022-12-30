@@ -12,7 +12,7 @@ function Home() {
         </div>
         <div>
           <ul className="flex space-x-5 text-sm font-bold">
-            <li>Dohaa</li>
+            <li>Doha</li>
             <li>Al Warkah</li>
             <li>Al Rayyan</li>
             <li>All Khor</li>
