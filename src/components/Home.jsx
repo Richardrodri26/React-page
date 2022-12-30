@@ -14,7 +14,7 @@ const Home = () => {
           <ul className="flex space-x-5 text-sm font-bold">
             <li>Doh</li>
             <li>Al Wake</li>
-            <li>Al Raymond</li>
+            <li>Al Ramses</li>
             <li>All car</li>
           </ul>
           <div className="flex items-center space-x-2 mt-5 text-gray-200">
