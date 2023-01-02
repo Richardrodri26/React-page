@@ -10,7 +10,7 @@ function App() {
       <Home/>
       <Places/>
       <Discover/>
-      {/*<Footer/> */}
+      <Footer/>
     </div>
   );
 }
